@@ -5,11 +5,17 @@
 # Installation On Termux
 
 pkg update && upgrade
+
 pkg install python -y
+
 pkg install git
+
 git clone https://github.com/ZOMBIE-3301/Decoder
+
 cd Decoder
+
 python Decoder.py
+
 
 # Installation Done ☠️
 
